@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/MySoloLife/app/src/main/res/drawable/background_radius.xml" value="0.190625" />
         <entry key="..\:/Users/user/AndroidStudioProjects/MySoloLife/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2064814814814815" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/MySoloLife/app/src/main/res/layout/activity_intro.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MySoloLife/app/src/main/res/layout/activity_intro.xml" value="0.22" />
         <entry key="..\:/Users/user/AndroidStudioProjects/MySoloLife/app/src/main/res/layout/activity_main.xml" value="0.10597826086956522" />
         <entry key="..\:/Users/user/AndroidStudioProjects/MySoloLife/app/src/main/res/layout/activity_splash.xml" value="0.17481884057971014" />
       </map>
